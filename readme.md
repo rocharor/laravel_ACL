@@ -1,4 +1,4 @@
-Projeto criado para demonstrar o funcionamento de um ACL (Lista de Controle de Acesso)
+<p>Projeto criado para demonstrar o funcionamento de um ACL (Lista de Controle de Acesso)</p>
 Arquivos alterados:
     model->Role.php
     model->Permission.php
